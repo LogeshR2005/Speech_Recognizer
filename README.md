@@ -1,3 +1,5 @@
+##Speech Recognizer Offline 
+
 The Vosk library is an open-source speech recognition toolkit developed by Kaldi-based Vosk API. It allows for offline speech recognition, meaning it can transcribe speech to text without relying on an internet connection. This is particularly useful for applications that require privacy, real-time response, or when internet access is limited or unavailable.
 
 Here's a basic project description using the Vosk library for offline speech recognition:
